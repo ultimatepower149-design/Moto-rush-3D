@@ -1,0 +1,6 @@
+{
+  "name": "Moto Rush 3D",
+  "description": "Ultra HD 3D Motorcycle Racing Game with realistic physics, traffic AI, garage upgrades, and multi-track highway challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
